@@ -8,19 +8,20 @@
 <body>
     <h1> Bài tập môn React</h1>
     <h1> Lý Thuyết </h1>
-    <h2><a href="https://codepen.io/nguyentanhungg/pen/qBKRRLJ" target="_blank">Bài 9</a></h2>
-    <h2><a href="https://codepen.io/nguyentanhungg/pen/GRGWJdy" target="_blank">Bài 10</a></h2>
-    <h2><a href="https://codepen.io/nguyentanhungg/pen/yLEMNQm" target="_blank">Bài 11</a></h2>
-    <h2><a href="https://codepen.io/nguyentanhungg/pen/wvXJEMK" target="_blank">Bài 12</a></h2>
-    <h2><a href="https://codepen.io/nguyentanhungg/pen/yLEMxaX" target="_blank">Bài 13</a></h2>
-    <h2><a href="https://codepen.io/nguyentanhungg/pen/wvXJEoM" target="_blank">Bài 14</a></h2>
-    <h2><a href="https://codepen.io/nguyentanhungg/pen/GRGWXrR" target="_blank">Bài 15 Cách 1</a></h2>
-    <h2><a href="https://codepen.io/nguyentanhungg/pen/abKLjmx" target="_blank">Bài 15 Cách 2</a></h2>
-    <h2><a href="https://codepen.io/nguyentanhungg/pen/bGKoMOP" target="_blank">Bài 16</a></h2>
-    <h2><a href="https://codepen.io/nguyentanhungg/pen/wvXrjOL" target="_blank">Bài 17</a></h2>
-    <h2><a href="https://codesandbox.io/s/bai18-08hume" target="_blank">Bài 18</a></h2>
-    <h2><a href="https://codesandbox.io/s/bai19-yb5u38" target="_blank">Bài 19</a></h2>
-    <h2><a href="https://codesandbox.io/s/bai20-0ystef" target="_blank">Bài 20</a></h2>
+    <h2><a href="https://codepen.io/tranhuudantruong/pen/eYKPMdQ" target="_blank">Bài 1</a></h2>
+    <h2><a href="https://codepen.io/tranhuudantruong/pen/BaVqrLR" target="_blank">Bài 3+4</a></h2>
+    <h2><a href="https://codepen.io/tranhuudantruong/pen/dyKgmpP" target="_blank">Bài 5</a></h2>
+    <h2><a href="https://codepen.io/tranhuudantruong/pen/zYamWqe" target="_blank">Bài 6</a></h2>
+    <h2><a href="https://codepen.io/tranhuudantruong/pen/dyKgmMP" target="_blank">Bài 7</a></h2>
+    <h2><a href="https://codepen.io/tranhuudantruong/pen/XWYxZEE" target="_blank">Bài 9 </a></h2>
+    <h2><a href="https://codepen.io/tranhuudantruong/pen/poKrBoX" target="_blank">Bài 10 </a></h2>
+    <h2><a href="https://codepen.io/tranhuudantruong/pen/MWXvRry" target="_blank">Bài 11</a></h2>
+    <h2><a href="https://codepen.io/tranhuudantruong/pen/OJEBQQy" target="_blank">Bài 12</a></h2>
+    <h2><a href="https://codepen.io/tranhuudantruong/pen/abKyxbZ" target="_blank">Bài 13</a></h2>
+    <h2><a href="https://codepen.io/tranhuudantruong/pen/qBKXwWR" target="_blank">Bài 14</a></h2>
+    <h2><a href="https://codepen.io/tranhuudantruong/pen/bGKrZym" target="_blank">Bài 15</a></h2>
+    <h2><a href="https://codepen.io/tranhuudantruong/pen/jOKGpNG" target="_blank">Bài 16</a></h2>
+    <h2><a href="https://codepen.io/tranhuudantruong/pen/wvXrxBJ" target="_blank">Bài 17</a></h2>
     <h2><a href="https://codesandbox.io/s/bai21-67p7s5" target="_blank">Bài 21</a></h2>
     <h1> Thực Hành </h1>
     <h2><a href="https://codesandbox.io/s/th00-obj027?file=/src/App.js" target="_blank">Bài thực hành làm quen React và tạo component</a></h2>
