@@ -28,12 +28,10 @@
      <h2><a href="https://codepen.io/tranhuudantruong/pen/MWXLraB" target="_blank">Bài 20</a></h2>
      <h2><a href="https://codepen.io/tranhuudantruong/pen/LYrqeGP" target="_blank">Bài 21</a></h2>
     <h1> Thực Hành </h1>
-    <h2><a href="https://codesandbox.io/s/th00-obj027?file=/src/App.js" target="_blank">Bài thực hành làm quen React và tạo component</a></h2>
-    <h2><a href="https://codesandbox.io/s/thuc-hanh-dung-props-va-sate-10r0i2?file=/src/Newcomp.js" target="_blank">Thực hành dùng props và sate</a></h2>
-    <h2><a href="https://codesandbox.io/s/th01-q0qf04" target="_blank">Bài thực hành số 1</a></h2>
-    <h2><a href="https://codesandbox.io/s/th02-io339o" target="_blank">Bài thực hành số 2</a></h2>
-    <h2><a href="https://codesandbox.io/s/th03-o0r7fg" target="_blank">Bài thực hành số 3</a></h2>
-    
+    <h2><a href="https://codesandbox.io/s/lamquenreact-h8hocj" target="_blank">Bài thực hành làm quen React và tạo component</a></h2>
+    <h2><a href="https://codesandbox.io/s/thpropsate-msmey4" target="_blank">Thực hành dùng props và sate</a></h2>
+    <h2><a href="https://codesandbox.io/s/duanhoanchinh-t1iglb" target="_blank">Duanhoanchinh</a></h2>
+   
     
 </body>
 </html>
