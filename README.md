@@ -13,6 +13,7 @@
     <h2><a href="https://codepen.io/tranhuudantruong/pen/dyKgmpP" target="_blank">Bài 5</a></h2>
     <h2><a href="https://codepen.io/tranhuudantruong/pen/zYamWqe" target="_blank">Bài 6</a></h2>
     <h2><a href="https://codepen.io/tranhuudantruong/pen/dyKgmMP" target="_blank">Bài 7</a></h2>
+    <h2><a href="https://codepen.io/tranhuudantruong/pen/XWYOVXo" target="_blank">Bài 8</a></h2>
     <h2><a href="https://codepen.io/tranhuudantruong/pen/XWYxZEE" target="_blank">Bài 9 </a></h2>
     <h2><a href="https://codepen.io/tranhuudantruong/pen/poKrBoX" target="_blank">Bài 10 </a></h2>
     <h2><a href="https://codepen.io/tranhuudantruong/pen/MWXvRry" target="_blank">Bài 11</a></h2>
@@ -22,7 +23,10 @@
     <h2><a href="https://codepen.io/tranhuudantruong/pen/bGKrZym" target="_blank">Bài 15</a></h2>
     <h2><a href="https://codepen.io/tranhuudantruong/pen/jOKGpNG" target="_blank">Bài 16</a></h2>
     <h2><a href="https://codepen.io/tranhuudantruong/pen/wvXrxBJ" target="_blank">Bài 17</a></h2>
-    <h2><a href="https://codesandbox.io/s/bai21-67p7s5" target="_blank">Bài 21</a></h2>
+    <h2><a href="https://codepen.io/tranhuudantruong/pen/BaVMJyW" target="_blank">Bài 18</a></h2>
+     <h2><a href="https://codepen.io/tranhuudantruong/details/BaVMJNW" target="_blank">Bài 19</a></h2>
+     <h2><a href="https://codepen.io/tranhuudantruong/pen/MWXLraB" target="_blank">Bài 20</a></h2>
+     <h2><a href="https://codepen.io/tranhuudantruong/pen/LYrqeGP" target="_blank">Bài 21</a></h2>
     <h1> Thực Hành </h1>
     <h2><a href="https://codesandbox.io/s/th00-obj027?file=/src/App.js" target="_blank">Bài thực hành làm quen React và tạo component</a></h2>
     <h2><a href="https://codesandbox.io/s/thuc-hanh-dung-props-va-sate-10r0i2?file=/src/Newcomp.js" target="_blank">Thực hành dùng props và sate</a></h2>
