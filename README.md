@@ -29,7 +29,7 @@
      <h2><a href="https://codepen.io/tranhuudantruong/pen/LYrqeGP" target="_blank">Bài 21</a></h2>
     <h1> Thực Hành </h1>
     <h2><a href="https://codesandbox.io/s/lamquenreact-h8hocj" target="_blank">Bài thực hành làm quen React và tạo component</a></h2>
-    <h2><a href="https://codesandbox.io/s/thpropsate-msmey4" target="_blank">Thực hành dùng props và sate</a></h2>
+    <h2><a href="https://codesandbox.io/s/thpropsate-msmey4" target="_blank">Thực hành dùng props và State</a></h2>
     <h2><a href="https://codesandbox.io/s/duanhoanchinh-t1iglb" target="_blank">Duanhoanchinh</a></h2>
    
     
